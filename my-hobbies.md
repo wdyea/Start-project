@@ -1,4 +1,0 @@
-reading
-bikes
-running
-moves

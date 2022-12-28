@@ -10,5 +10,5 @@ Git is free software.
 Git is a distributed version control system.
 Git is free software distributed under the GPindex called stage.
 Git tracks changes
-hhh stupid
+want to get back
 
